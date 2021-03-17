@@ -1,0 +1,172 @@
+// this file was generated from Free Chorus.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=24 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=220 sample=../Audio/Free Chorus/Free Chorus1 127-CDD3.wav
+<group> key=25 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=64 end=630690 sample=../Audio/Free Chorus/Free Chorus1 127-VCMU.wav
+<group> key=26 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=157 end=628979 sample=../Audio/Free Chorus/Free Chorus1 127-I2JT.wav
+<group> key=27 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=110 sample=../Audio/Free Chorus/Free Chorus1 127-FVXC.wav
+<group> key=28 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=213 end=629761 sample=../Audio/Free Chorus/Free Chorus1 127-WDC4.wav
+<group> key=29 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=211 sample=../Audio/Free Chorus/Free Chorus1 127-LWVF.wav
+<group> key=30 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=108 end=631284 sample=../Audio/Free Chorus/Free Chorus1 127-8J46.wav
+<group> key=31 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=262 sample=../Audio/Free Chorus/Free Chorus1 127-H56K.wav
+<group> key=32 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=238 sample=../Audio/Free Chorus/Free Chorus1 127-NS7Q.wav
+<group> key=33 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=128 end=630496 sample=../Audio/Free Chorus/Free Chorus1 127-FY01.wav
+<group> key=34 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=193 end=630586 sample=../Audio/Free Chorus/Free Chorus1 127-Z5BC.wav
+<group> key=35 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=182 sample=../Audio/Free Chorus/Free Chorus1 127-4WS9.wav
+<group> key=36 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=179 end=627103 sample=../Audio/Free Chorus/Free Chorus1 127-ECQA.wav
+<group> key=37 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=151 sample=../Audio/Free Chorus/Free Chorus1 127-XIEF.wav
+<group> key=38 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=196 sample=../Audio/Free Chorus/Free Chorus1 127-P93C.wav
+<group> key=39 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=192 sample=../Audio/Free Chorus/Free Chorus1 127-IN08.wav
+<group> key=40 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=178 end=628490 sample=../Audio/Free Chorus/Free Chorus1 127-JTFX.wav
+<group> key=41 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=232 sample=../Audio/Free Chorus/Free Chorus1 127-XXK8.wav
+<group> key=42 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=100 end=629109 sample=../Audio/Free Chorus/Free Chorus1 127-IJ2X.wav
+<group> key=43 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=175 end=625936 sample=../Audio/Free Chorus/Free Chorus1 127-OHRN.wav
+<group> key=44 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=240 end=631749 sample=../Audio/Free Chorus/Free Chorus1 127-O5B7.wav
+<group> key=45 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=182 end=631311 sample=../Audio/Free Chorus/Free Chorus1 127-SR7E.wav
+<group> key=46 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=248 end=627123 sample=../Audio/Free Chorus/Free Chorus1 127-6Y9T.wav
+<group> key=47 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=76 end=629606 sample=../Audio/Free Chorus/Free Chorus1 127-FTLK.wav
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=183 end=630162 sample=../Audio/Free Chorus/Free Chorus1 127-6V0W.wav
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=238 end=631092 sample=../Audio/Free Chorus/Free Chorus1 127-ADC6.wav
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=181 sample=../Audio/Free Chorus/Free Chorus1 127-BW2W.wav
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=170 end=630591 sample=../Audio/Free Chorus/Free Chorus1 127-EJI3.wav
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=134 end=631009 sample=../Audio/Free Chorus/Free Chorus1 127-7Y9S.wav
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=124 end=628544 sample=../Audio/Free Chorus/Free Chorus1 127-QGCN.wav
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=217 end=629712 sample=../Audio/Free Chorus/Free Chorus1 127-6PYX.wav
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=192 end=630669 sample=../Audio/Free Chorus/Free Chorus1 127-YF14.wav
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=101 sample=../Audio/Free Chorus/Free Chorus1 127-N4VW.wav
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=174 sample=../Audio/Free Chorus/Free Chorus1 127-QPPO.wav
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=224 end=629694 sample=../Audio/Free Chorus/Free Chorus1 127-ILM1.wav
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=43 sample=../Audio/Free Chorus/Free Chorus1 127-ECUU.wav
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=17 end=629094 sample=../Audio/Free Chorus/Free Chorus1 127-PKNV.wav
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=203 end=629762 sample=../Audio/Free Chorus/Free Chorus1 127-F16T.wav
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=228 end=631791 sample=../Audio/Free Chorus/Free Chorus1 127-Q77T.wav
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=209 end=628753 sample=../Audio/Free Chorus/Free Chorus1 127-K5W1.wav
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=308 end=628698 sample=../Audio/Free Chorus/Free Chorus1 127-KXNT.wav
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=218 sample=../Audio/Free Chorus/Free Chorus1 127-V5QT.wav
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=178 end=630219 sample=../Audio/Free Chorus/Free Chorus1 127-BIFE.wav
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=237 end=628326 sample=../Audio/Free Chorus/Free Chorus1 127-RJAS.wav
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=226 end=630671 sample=../Audio/Free Chorus/Free Chorus1 127-07VV.wav
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=258 end=631862 sample=../Audio/Free Chorus/Free Chorus1 127-7EXT.wav
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=108 end=628513 sample=../Audio/Free Chorus/Free Chorus1 127-0BHP.wav
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=91 sample=../Audio/Free Chorus/Free Chorus1 127-KBRJ.wav
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=223 end=628624 sample=../Audio/Free Chorus/Free Chorus1 127-CBHO.wav
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=82 end=630769 sample=../Audio/Free Chorus/Free Chorus1 127-HY9L.wav
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=225 sample=../Audio/Free Chorus/Free Chorus1 127-L613.wav
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=159 end=631306 sample=../Audio/Free Chorus/Free Chorus1 127-DLV5.wav
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=233 end=629409 sample=../Audio/Free Chorus/Free Chorus1 127-2J5B.wav
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=196 end=628442 sample=../Audio/Free Chorus/Free Chorus1 127-IQ32.wav
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=158 end=627891 sample=../Audio/Free Chorus/Free Chorus1 127-YAK6.wav
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=224 end=628627 sample=../Audio/Free Chorus/Free Chorus1 127-PSKY.wav
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=38 sample=../Audio/Free Chorus/Free Chorus1 127-OCGQ.wav
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=249 end=628808 sample=../Audio/Free Chorus/Free Chorus1 127-XKK7.wav
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=87 end=628148 sample=../Audio/Free Chorus/Free Chorus1 127-SSKY.wav
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=198 end=630340 sample=../Audio/Free Chorus/Free Chorus1 127-OUBY.wav
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=159 end=628276 sample=../Audio/Free Chorus/Free Chorus1 127-BQT0.wav
+<group> key=85 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=29 sample=../Audio/Free Chorus/Free Chorus1 127-JPET.wav
+<group> key=86 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=85 sample=../Audio/Free Chorus/Free Chorus1 127-HZ8R.wav
+<group> key=87 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=179 end=630156 sample=../Audio/Free Chorus/Free Chorus1 127-MWXL.wav
+<group> key=88 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=140 sample=../Audio/Free Chorus/Free Chorus1 127-NDYN.wav
+<group> key=89 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=76 end=629081 sample=../Audio/Free Chorus/Free Chorus1 127-E7V6.wav
+<group> key=90 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=41 end=630553 sample=../Audio/Free Chorus/Free Chorus1 127-QPZY.wav
+<group> key=91 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=197 sample=../Audio/Free Chorus/Free Chorus1 127-2GJ9.wav
+<group> key=92 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=121 end=626638 sample=../Audio/Free Chorus/Free Chorus1 127-DKEC.wav
+<group> key=93 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=110 sample=../Audio/Free Chorus/Free Chorus1 127-L14S.wav
+<group> key=94 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=178 end=629018 sample=../Audio/Free Chorus/Free Chorus1 127-7OWO.wav
+<group> key=95 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=230 sample=../Audio/Free Chorus/Free Chorus1 127-ZMBC.wav
+<group> key=96 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=122 sample=../Audio/Free Chorus/Free Chorus1 127-YWD2.wav
+<group> key=97 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=105 end=629895 sample=../Audio/Free Chorus/Free Chorus1 127-U7NQ.wav
+<group> key=98 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=219 sample=../Audio/Free Chorus/Free Chorus1 127-KYHZ.wav
+<group> key=99 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=229 end=627720 sample=../Audio/Free Chorus/Free Chorus1 127-NVUP.wav
+<group> key=100 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=42 end=627888 sample=../Audio/Free Chorus/Free Chorus1 127-JO11.wav
+<group> key=101 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=114 sample=../Audio/Free Chorus/Free Chorus1 127-JB96.wav
+<group> key=102 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=22 end=628531 sample=../Audio/Free Chorus/Free Chorus1 127-5OM7.wav
+<group> key=103 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=195 end=625509 sample=../Audio/Free Chorus/Free Chorus1 127-D6ON.wav
+<group> key=104 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=239 sample=../Audio/Free Chorus/Free Chorus1 127-8JWG.wav
+<group> key=105 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=95 sample=../Audio/Free Chorus/Free Chorus1 127-4R5A.wav
+<group> key=106 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=201 end=626259 sample=../Audio/Free Chorus/Free Chorus1 127-X6YY.wav
+<group> key=107 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=170 end=629040 sample=../Audio/Free Chorus/Free Chorus1 127-KBTD.wav
+<group> key=108 pitch_keytrack=1
+	<region> lovel=001 hivel=127 amp_velcurve_127=1 offset=223 end=631082 sample=../Audio/Free Chorus/Free Chorus1 127-38OE.wav

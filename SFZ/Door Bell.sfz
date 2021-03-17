@@ -1,0 +1,307 @@
+// this file was generated from Door Bell.exs using vonred's exs2sfz.py. Trickster goddess incoming.
+
+<group> key=48 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=260 end=252122 sample=../Audio/Door Bell/Door Bell1 32-IJXU.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=390 end=359245 sample=../Audio/Door Bell/Door Bell33 64-DKIM.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=402 end=373583 sample=../Audio/Door Bell/Door Bell65 95-JT15.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=275 sample=../Audio/Door Bell/Door Bell96 127-KCW9.wav
+<group> key=49 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=350 sample=../Audio/Door Bell/Door Bell1 32-1OPL.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=382 end=343672 sample=../Audio/Door Bell/Door Bell33 64-CF0F.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=397 end=388872 sample=../Audio/Door Bell/Door Bell65 95-M6F0.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=347 sample=../Audio/Door Bell/Door Bell96 127-Z8HK.wav
+<group> key=50 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=369 sample=../Audio/Door Bell/Door Bell1 32-OLL6.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=189 sample=../Audio/Door Bell/Door Bell33 64-9G1R.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=217 end=383966 sample=../Audio/Door Bell/Door Bell65 95-3IDP.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=379 end=394132 sample=../Audio/Door Bell/Door Bell96 127-7YHX.wav
+<group> key=51 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=387 end=242921 sample=../Audio/Door Bell/Door Bell1 32-E79I.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=231 sample=../Audio/Door Bell/Door Bell33 64-GB53.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=368 end=382538 sample=../Audio/Door Bell/Door Bell65 95-2JYH.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=385 end=401535 sample=../Audio/Door Bell/Door Bell96 127-B7HT.wav
+<group> key=52 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=229 sample=../Audio/Door Bell/Door Bell1 32-JK7E.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=278 end=353931 sample=../Audio/Door Bell/Door Bell33 64-2CDA.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=419 end=382069 sample=../Audio/Door Bell/Door Bell65 95-W01V.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=363 end=401216 sample=../Audio/Door Bell/Door Bell96 127-4DI8.wav
+<group> key=53 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=327 end=245893 sample=../Audio/Door Bell/Door Bell1 32-RISI.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=164 end=342574 sample=../Audio/Door Bell/Door Bell33 64-NNP5.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=228 end=381132 sample=../Audio/Door Bell/Door Bell65 95-D24W.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=215 end=396298 sample=../Audio/Door Bell/Door Bell96 127-QQGG.wav
+<group> key=54 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=383 end=233124 sample=../Audio/Door Bell/Door Bell1 32-O1LA.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=393 sample=../Audio/Door Bell/Door Bell33 64-RK9V.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=388 end=385602 sample=../Audio/Door Bell/Door Bell65 95-IOCA.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=211 end=383694 sample=../Audio/Door Bell/Door Bell96 127-N3N8.wav
+<group> key=55 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=365 end=247387 sample=../Audio/Door Bell/Door Bell1 32-3RAX.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=178 end=345241 sample=../Audio/Door Bell/Door Bell33 64-CUXT.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=413 sample=../Audio/Door Bell/Door Bell65 95-XOB8.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=380 end=394592 sample=../Audio/Door Bell/Door Bell96 127-SSNW.wav
+<group> key=56 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=390 end=226233 sample=../Audio/Door Bell/Door Bell1 32-L87P.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=430 end=338664 sample=../Audio/Door Bell/Door Bell33 64-1QUH.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=277 end=379205 sample=../Audio/Door Bell/Door Bell65 95-0AWS.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=229 end=384294 sample=../Audio/Door Bell/Door Bell96 127-KCJL.wav
+<group> key=57 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=371 sample=../Audio/Door Bell/Door Bell1 32-XFYF.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=363 end=332529 sample=../Audio/Door Bell/Door Bell33 64-0Q31.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=198 sample=../Audio/Door Bell/Door Bell65 95-U637.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=293 end=384511 sample=../Audio/Door Bell/Door Bell96 127-V3TO.wav
+<group> key=58 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=410 end=226707 sample=../Audio/Door Bell/Door Bell1 32-5XHI.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=380 sample=../Audio/Door Bell/Door Bell33 64-RBPH.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=389 end=377802 sample=../Audio/Door Bell/Door Bell65 95-D80O.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=403 sample=../Audio/Door Bell/Door Bell96 127-R7J4.wav
+<group> key=59 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=369 end=226664 sample=../Audio/Door Bell/Door Bell1 32-9UJR.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=141 end=329041 sample=../Audio/Door Bell/Door Bell33 64-RLOY.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=336 end=369124 sample=../Audio/Door Bell/Door Bell65 95-CRBO.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=280 end=394144 sample=../Audio/Door Bell/Door Bell96 127-VFKB.wav
+<group> key=60 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=405 end=217234 sample=../Audio/Door Bell/Door Bell1 32-YOPK.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=324 sample=../Audio/Door Bell/Door Bell33 64-HLJ8.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=371 end=368986 sample=../Audio/Door Bell/Door Bell65 95-NIG9.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=196 sample=../Audio/Door Bell/Door Bell96 127-LL0S.wav
+<group> key=61 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=263 end=214430 sample=../Audio/Door Bell/Door Bell1 32-A75J.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=414 end=341327 sample=../Audio/Door Bell/Door Bell33 64-SQI0.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=215 end=376044 sample=../Audio/Door Bell/Door Bell65 95-VO3V.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=231 end=391685 sample=../Audio/Door Bell/Door Bell96 127-DULI.wav
+<group> key=62 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=328 end=216833 sample=../Audio/Door Bell/Door Bell1 32-8SEO.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=257 sample=../Audio/Door Bell/Door Bell33 64-N60W.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=190 end=367774 sample=../Audio/Door Bell/Door Bell65 95-PV41.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=335 sample=../Audio/Door Bell/Door Bell96 127-SPBZ.wav
+<group> key=63 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=380 end=216717 sample=../Audio/Door Bell/Door Bell1 32-T5K0.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=395 end=314457 sample=../Audio/Door Bell/Door Bell33 64-SV5F.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=379 end=379138 sample=../Audio/Door Bell/Door Bell65 95-WN2U.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=362 end=390604 sample=../Audio/Door Bell/Door Bell96 127-DXYU.wav
+<group> key=64 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=213 end=213512 sample=../Audio/Door Bell/Door Bell1 32-03Q6.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=339 sample=../Audio/Door Bell/Door Bell33 64-VDGR.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=376 end=374521 sample=../Audio/Door Bell/Door Bell65 95-WS09.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=414 sample=../Audio/Door Bell/Door Bell96 127-4FXP.wav
+<group> key=65 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=265 end=197739 sample=../Audio/Door Bell/Door Bell1 32-F0W6.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=182 end=303431 sample=../Audio/Door Bell/Door Bell33 64-T4J1.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=359 sample=../Audio/Door Bell/Door Bell65 95-P303.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=395 end=382512 sample=../Audio/Door Bell/Door Bell96 127-R8F4.wav
+<group> key=66 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=223 end=215945 sample=../Audio/Door Bell/Door Bell1 32-YZ02.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=380 end=299045 sample=../Audio/Door Bell/Door Bell33 64-3IR7.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=394 end=377909 sample=../Audio/Door Bell/Door Bell65 95-25S9.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=202 end=392332 sample=../Audio/Door Bell/Door Bell96 127-C1AT.wav
+<group> key=67 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=387 end=209320 sample=../Audio/Door Bell/Door Bell1 32-70NT.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=202 sample=../Audio/Door Bell/Door Bell33 64-DYOG.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=209 end=373536 sample=../Audio/Door Bell/Door Bell65 95-CDMB.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=179 sample=../Audio/Door Bell/Door Bell96 127-NND2.wav
+<group> key=68 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=413 end=193227 sample=../Audio/Door Bell/Door Bell1 32-DW8H.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=403 end=303949 sample=../Audio/Door Bell/Door Bell33 64-6KHW.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=362 end=359309 sample=../Audio/Door Bell/Door Bell65 95-N3I0.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=365 sample=../Audio/Door Bell/Door Bell96 127-EF2X.wav
+<group> key=69 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=367 end=187201 sample=../Audio/Door Bell/Door Bell1 32-UT8M.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=161 end=311261 sample=../Audio/Door Bell/Door Bell33 64-M2RX.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=434 end=372081 sample=../Audio/Door Bell/Door Bell65 95-OHOH.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=220 end=398907 sample=../Audio/Door Bell/Door Bell96 127-QID7.wav
+<group> key=70 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=394 end=195865 sample=../Audio/Door Bell/Door Bell1 32-12F1.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=363 end=308961 sample=../Audio/Door Bell/Door Bell33 64-D714.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=175 sample=../Audio/Door Bell/Door Bell65 95-1OCM.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=430 end=392510 sample=../Audio/Door Bell/Door Bell96 127-NR9C.wav
+<group> key=71 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=348 end=180969 sample=../Audio/Door Bell/Door Bell1 32-RP6W.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=310 sample=../Audio/Door Bell/Door Bell33 64-41HV.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=303 end=371524 sample=../Audio/Door Bell/Door Bell65 95-SOEM.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=336 end=379745 sample=../Audio/Door Bell/Door Bell96 127-TOJA.wav
+<group> key=72 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=263 end=194178 sample=../Audio/Door Bell/Door Bell1 32-SAEB.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=212 sample=../Audio/Door Bell/Door Bell33 64-5XDF.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=412 end=372510 sample=../Audio/Door Bell/Door Bell65 95-LKCC.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=182 end=390310 sample=../Audio/Door Bell/Door Bell96 127-PMQ3.wav
+<group> key=73 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=421 end=177208 sample=../Audio/Door Bell/Door Bell1 32-1RVT.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=266 end=282451 sample=../Audio/Door Bell/Door Bell33 64-PU65.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=355 end=363330 sample=../Audio/Door Bell/Door Bell65 95-XFGU.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=183 sample=../Audio/Door Bell/Door Bell96 127-VL3F.wav
+<group> key=74 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=345 end=178342 sample=../Audio/Door Bell/Door Bell1 32-KM6U.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=355 end=276713 sample=../Audio/Door Bell/Door Bell33 64-78H5.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=284 end=367837 sample=../Audio/Door Bell/Door Bell65 95-QWMR.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=159 end=382145 sample=../Audio/Door Bell/Door Bell96 127-ERG5.wav
+<group> key=75 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=284 end=187784 sample=../Audio/Door Bell/Door Bell1 32-84LH.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=215 end=298865 sample=../Audio/Door Bell/Door Bell33 64-TJYJ.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=252 end=366051 sample=../Audio/Door Bell/Door Bell65 95-HHBT.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=358 end=388775 sample=../Audio/Door Bell/Door Bell96 127-05K4.wav
+<group> key=76 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=220 end=184242 sample=../Audio/Door Bell/Door Bell1 32-GBPS.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=406 end=290950 sample=../Audio/Door Bell/Door Bell33 64-8WGB.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=198 sample=../Audio/Door Bell/Door Bell65 95-OL7S.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=317 end=378045 sample=../Audio/Door Bell/Door Bell96 127-B8V6.wav
+<group> key=77 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=298 end=176150 sample=../Audio/Door Bell/Door Bell1 32-A2OO.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=220 sample=../Audio/Door Bell/Door Bell33 64-TECE.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=129 end=366489 sample=../Audio/Door Bell/Door Bell65 95-5WQE.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=389 end=377035 sample=../Audio/Door Bell/Door Bell96 127-XOHQ.wav
+<group> key=78 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=402 end=179634 sample=../Audio/Door Bell/Door Bell1 32-39KV.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=392 end=271231 sample=../Audio/Door Bell/Door Bell33 64-5LMA.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=952 end=362159 sample=../Audio/Door Bell/Door Bell65 95-1LOH.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=293 sample=../Audio/Door Bell/Door Bell96 127-TF25.wav
+<group> key=79 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=376 end=178314 sample=../Audio/Door Bell/Door Bell1 32-7MQ1.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=215 end=261654 sample=../Audio/Door Bell/Door Bell33 64-YE4A.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=373 end=351264 sample=../Audio/Door Bell/Door Bell65 95-SCT2.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=314 sample=../Audio/Door Bell/Door Bell96 127-T8CJ.wav
+<group> key=80 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=371 end=181107 sample=../Audio/Door Bell/Door Bell1 32-2OQA.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=419 end=250400 sample=../Audio/Door Bell/Door Bell33 64-VYM7.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=333 sample=../Audio/Door Bell/Door Bell65 95-0DVB.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=241 end=377405 sample=../Audio/Door Bell/Door Bell96 127-N5NX.wav
+<group> key=81 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=430 sample=../Audio/Door Bell/Door Bell1 32-OCFI.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=403 end=258972 sample=../Audio/Door Bell/Door Bell33 64-NYBW.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=411 end=357091 sample=../Audio/Door Bell/Door Bell65 95-BJTL.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=325 end=385168 sample=../Audio/Door Bell/Door Bell96 127-FZKC.wav
+<group> key=82 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=320 sample=../Audio/Door Bell/Door Bell1 32-CIVQ.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=213 end=266239 sample=../Audio/Door Bell/Door Bell33 64-JYHO.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=368 sample=../Audio/Door Bell/Door Bell65 95-UHJJ.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=364 end=377422 sample=../Audio/Door Bell/Door Bell96 127-92AY.wav
+<group> key=83 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=378 end=158791 sample=../Audio/Door Bell/Door Bell1 32-DH94.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=331 end=258052 sample=../Audio/Door Bell/Door Bell33 64-AA1U.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=181 end=359707 sample=../Audio/Door Bell/Door Bell65 95-ZSN6.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=288 end=374402 sample=../Audio/Door Bell/Door Bell96 127-3E0E.wav
+<group> key=84 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=375 sample=../Audio/Door Bell/Door Bell1 32-TB26.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=182 sample=../Audio/Door Bell/Door Bell33 64-37QC.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=388 end=357256 sample=../Audio/Door Bell/Door Bell65 95-U5TF.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=340 end=383923 sample=../Audio/Door Bell/Door Bell96 127-79WH.wav
+<group> key=85 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=365 end=149637 sample=../Audio/Door Bell/Door Bell1 32-1MVP.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=377 end=266891 sample=../Audio/Door Bell/Door Bell33 64-NUH9.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=185 sample=../Audio/Door Bell/Door Bell65 95-RVTZ.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=363 end=376060 sample=../Audio/Door Bell/Door Bell96 127-29LD.wav
+<group> key=86 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=363 end=201591 sample=../Audio/Door Bell/Door Bell1 32-VBAK.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=306 end=249962 sample=../Audio/Door Bell/Door Bell33 64-UUGV.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=234 end=352966 sample=../Audio/Door Bell/Door Bell65 95-BS29.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=303 end=375921 sample=../Audio/Door Bell/Door Bell96 127-NVDO.wav
+<group> key=87 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=385 end=213027 sample=../Audio/Door Bell/Door Bell1 32-NDBG.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=268 end=264718 sample=../Audio/Door Bell/Door Bell33 64-4SWC.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=426 end=351430 sample=../Audio/Door Bell/Door Bell65 95-11PO.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=177 end=382592 sample=../Audio/Door Bell/Door Bell96 127-TDPN.wav
+<group> key=88 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=224 sample=../Audio/Door Bell/Door Bell1 32-9ZPC.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=231 end=232709 sample=../Audio/Door Bell/Door Bell33 64-I1TA.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=156 end=342253 sample=../Audio/Door Bell/Door Bell65 95-WDD3.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=202 end=375492 sample=../Audio/Door Bell/Door Bell96 127-JD5E.wav
+<group> key=89 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=377 end=155791 sample=../Audio/Door Bell/Door Bell1 32-LUAA.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=403 sample=../Audio/Door Bell/Door Bell33 64-LQRW.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=206 sample=../Audio/Door Bell/Door Bell65 95-8XF1.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=164 end=376688 sample=../Audio/Door Bell/Door Bell96 127-30G7.wav
+<group> key=90 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=169 end=187727 sample=../Audio/Door Bell/Door Bell1 32-BXWO.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=295 sample=../Audio/Door Bell/Door Bell33 64-8DVR.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=283 sample=../Audio/Door Bell/Door Bell65 95-25EK.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=383 sample=../Audio/Door Bell/Door Bell96 127-BQ21.wav
+<group> key=91 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=242 end=189392 sample=../Audio/Door Bell/Door Bell1 32-VS35.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=168 sample=../Audio/Door Bell/Door Bell33 64-S5Q8.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=384 sample=../Audio/Door Bell/Door Bell65 95-EMK1.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=357 end=379800 sample=../Audio/Door Bell/Door Bell96 127-FGCK.wav
+<group> key=92 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=322 end=166482 sample=../Audio/Door Bell/Door Bell1 32-31ID.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=231 end=257907 sample=../Audio/Door Bell/Door Bell33 64-4MUN.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=496 sample=../Audio/Door Bell/Door Bell65 95-NZPK.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=183 end=384262 sample=../Audio/Door Bell/Door Bell96 127-WWR8.wav
+<group> key=93 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=298 sample=../Audio/Door Bell/Door Bell1 32-8BZN.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=341 end=255376 sample=../Audio/Door Bell/Door Bell33 64-83YS.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=387 sample=../Audio/Door Bell/Door Bell65 95-WLC3.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=330 end=379285 sample=../Audio/Door Bell/Door Bell96 127-ERXP.wav
+<group> key=94 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=212 sample=../Audio/Door Bell/Door Bell1 32-XGQU.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=398 end=222992 sample=../Audio/Door Bell/Door Bell33 64-5RUS.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=187 end=310534 sample=../Audio/Door Bell/Door Bell65 95-B5YC.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=608 end=381082 sample=../Audio/Door Bell/Door Bell96 127-P8VN.wav
+<group> key=95 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=382 end=180310 sample=../Audio/Door Bell/Door Bell1 32-OE0K.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=372 sample=../Audio/Door Bell/Door Bell33 64-8IEZ.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=343 end=317314 sample=../Audio/Door Bell/Door Bell65 95-24L3.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=300 end=385782 sample=../Audio/Door Bell/Door Bell96 127-WIG2.wav
+<group> key=96 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=334 sample=../Audio/Door Bell/Door Bell1 32-60RA.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=161 end=267623 sample=../Audio/Door Bell/Door Bell33 64-SIQH.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=330 end=322234 sample=../Audio/Door Bell/Door Bell65 95-TTFA.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=353 sample=../Audio/Door Bell/Door Bell96 127-ORZD.wav
+<group> key=97 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=422 end=214958 sample=../Audio/Door Bell/Door Bell1 32-I3BN.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=332 sample=../Audio/Door Bell/Door Bell33 64-V5E5.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=183 sample=../Audio/Door Bell/Door Bell65 95-09AO.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=329 sample=../Audio/Door Bell/Door Bell96 127-YG6Q.wav
+<group> key=98 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=314 sample=../Audio/Door Bell/Door Bell1 32-ZQVL.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=232 sample=../Audio/Door Bell/Door Bell33 64-B75B.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=322 sample=../Audio/Door Bell/Door Bell65 95-6PTU.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=383 end=375818 sample=../Audio/Door Bell/Door Bell96 127-JU0B.wav
+<group> key=99 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=401 sample=../Audio/Door Bell/Door Bell1 32-K4S1.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=134 sample=../Audio/Door Bell/Door Bell33 64-0PS7.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=230 sample=../Audio/Door Bell/Door Bell65 95-3F1T.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=362 sample=../Audio/Door Bell/Door Bell96 127-94LX.wav
+<group> key=100 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=371 end=195904 sample=../Audio/Door Bell/Door Bell1 32-DQ91.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=352 end=217251 sample=../Audio/Door Bell/Door Bell33 64-WI3I.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=356 sample=../Audio/Door Bell/Door Bell65 95-IH6R.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=361 sample=../Audio/Door Bell/Door Bell96 127-5QKC.wav
+<group> key=101 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=343 sample=../Audio/Door Bell/Door Bell1 32-GXWR.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=336 sample=../Audio/Door Bell/Door Bell33 64-8IRG.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=202 end=318925 sample=../Audio/Door Bell/Door Bell65 95-A9EX.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=169 sample=../Audio/Door Bell/Door Bell96 127-I1OD.wav
+<group> key=102 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=167 end=188824 sample=../Audio/Door Bell/Door Bell1 32-WCP0.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=169 end=259209 sample=../Audio/Door Bell/Door Bell33 64-XUMS.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=342 end=308486 sample=../Audio/Door Bell/Door Bell65 95-NIPC.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=372 end=371239 sample=../Audio/Door Bell/Door Bell96 127-NUGV.wav
+<group> key=103 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=404 end=177848 sample=../Audio/Door Bell/Door Bell1 32-6KBR.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=185 end=216186 sample=../Audio/Door Bell/Door Bell33 64-PKAC.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=360 sample=../Audio/Door Bell/Door Bell65 95-9S7W.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=444 end=375583 sample=../Audio/Door Bell/Door Bell96 127-FDGG.wav
+<group> key=104 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=369 sample=../Audio/Door Bell/Door Bell1 32-3JJZ.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=563 end=201281 sample=../Audio/Door Bell/Door Bell33 64-4K16.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=200 end=282732 sample=../Audio/Door Bell/Door Bell65 95-X3PG.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=339 end=366473 sample=../Audio/Door Bell/Door Bell96 127-D3E2.wav
+<group> key=105 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=267 end=184167 sample=../Audio/Door Bell/Door Bell1 32-711Q.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=377 end=212370 sample=../Audio/Door Bell/Door Bell33 64-FBP0.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=266 sample=../Audio/Door Bell/Door Bell65 95-KCIB.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=144 sample=../Audio/Door Bell/Door Bell96 127-OB5Z.wav
+<group> key=106 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=344 end=199156 sample=../Audio/Door Bell/Door Bell1 32-A2YG.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=388 end=202176 sample=../Audio/Door Bell/Door Bell33 64-ACH3.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=319 sample=../Audio/Door Bell/Door Bell65 95-HQPY.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=432 end=371350 sample=../Audio/Door Bell/Door Bell96 127-3V8W.wav
+<group> key=107 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=373 end=176135 sample=../Audio/Door Bell/Door Bell1 32-SBXC.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=440 sample=../Audio/Door Bell/Door Bell33 64-7RQP.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=259 end=294806 sample=../Audio/Door Bell/Door Bell65 95-SZAA.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=313 end=374573 sample=../Audio/Door Bell/Door Bell96 127-0BLZ.wav
+<group> key=108 pitch_keytrack=1
+	<region> lovel=001 hivel=032 amp_velcurve_032=1 offset=324 end=187229 sample=../Audio/Door Bell/Door Bell1 32-4RE3.wav
+	<region> lovel=033 hivel=064 amp_velcurve_064=1 offset=209 end=202202 sample=../Audio/Door Bell/Door Bell33 64-RR3Q.wav
+	<region> lovel=065 hivel=095 amp_velcurve_095=1 offset=346 end=290903 sample=../Audio/Door Bell/Door Bell65 95-JN9S.wav
+	<region> lovel=096 hivel=127 amp_velcurve_127=1 offset=132 end=363158 sample=../Audio/Door Bell/Door Bell96 127-IXC4.wav
